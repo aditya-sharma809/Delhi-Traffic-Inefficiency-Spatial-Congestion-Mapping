@@ -1,0 +1,21 @@
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# Database & Cache files
+*.db-journal
+*.sqlite3-journal
+
+# VS Code & OS System Files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Large Log Files (Keep directory structureclean)
+logs/*.log
