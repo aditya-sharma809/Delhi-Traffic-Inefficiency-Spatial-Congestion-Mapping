@@ -47,6 +47,9 @@ To ensure all analytical findings are mathematically sound and not artifacts of 
 🚀 Actionable Policy & Engineering Recommendations
 
 Based on quantitative evidence, the following 3-tier implementation roadmap is proposed to urban transit authorities:
+
 Short-Term (0–3 Months) | Dynamic Signal Optimization: Replace static timer signals with adaptive signal controllers programmed to extend green light timing by 25–30% during the Evening Peak window (16:00–19:00).
+
 Medium-Term (3–12 Months) | Priority Transit Corridors: Demarcate dedicated Bus Rapid Transit (BRT) lanes to isolate frequent stopping patterns (r=0.871) from high-speed passenger traffic, and introduce HOV-2+ lanes for cars.
+
 Long-Term (12–24 Months) | Night Logistics Mandate: Restrict heavy multi-axle truck entry during peak daylight hours. Shift commercial freight logistics exclusively to the Night Window (22:00–05:00), leveraging the vastly underutilized road capacity (Congestion Index = 0.58).
