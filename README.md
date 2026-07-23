@@ -14,7 +14,9 @@ An end-to-end Data Analytics Engineering pipeline analyzing urban vehicular move
 
 We built and deployed an interactive **Looker Studio (Google Data Studio)** dashboard connected directly to our processed analytical data mart. 
 
-![Looker Studio Dashboard](Screenshot of dashboard.png)
+![Looker Studio Dashboard]
+<img width="365" height="272" alt="Screenshot of dashboard" src="https://github.com/user-attachments/assets/11ba967d-251d-4155-b27c-a4b943b89294" />
+
 
 Live Dashboard
 
